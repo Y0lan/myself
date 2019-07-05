@@ -1,0 +1,29 @@
+{
+  "name": "myself",
+  "version": "1.0.0",
+  "description": "Static site about myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y0lan/myself.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "express",
+    "resume",
+    "clean-code"
+  ],
+  "author": "Yolan Maldonado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Y0lan/myself/issues"
+  },
+  "homepage": "https://github.com/Y0lan/myself#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
