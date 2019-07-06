@@ -1,7 +1,22 @@
-# This is kind of a CV.
-I like building things, and I am in a moment in my life where I thinks it is important for me to show myself a little more, so what best than a website and pushing more stuff on my github?
+# myself
 
- See you there :)
- 
- **My contact: yolan.maldonado@mailfence.com**
- **GPG: coming soon**
+> A website about myself.
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm run install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).

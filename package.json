@@ -1,29 +1,21 @@
 {
   "name": "myself",
   "version": "1.0.0",
-  "description": "Static site about myself",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Y0lan/myself.git"
-  },
-  "keywords": [
-    "node",
-    "npm",
-    "express",
-    "resume",
-    "clean-code"
-  ],
+  "description": "A website about myself.",
   "author": "Yolan Maldonado",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Y0lan/myself/issues"
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
-  "homepage": "https://github.com/Y0lan/myself#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "nuxt-buefy": "^0.3.2",
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
   }
 }
