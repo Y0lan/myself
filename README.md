@@ -1,4 +1,4 @@
-| [![yolan.dev](http://setetres.s3.amazonaws.com/setetres.st/img/share-ebmfw.png?v=3&raw=true)](https://yolan.dev) |
+| [![yolan.dev](img/readme.png)](https://yolan.dev) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [![Github License](https://img.shields.io/github/license/setetres/evenbettermotherfuckingwebsite.svg)](https://github.com/setetres/evenbettermotherfuckingwebsite/blob/master/LICENSE)
